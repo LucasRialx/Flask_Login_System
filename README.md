@@ -18,13 +18,13 @@ Este é um exemplo básico de um sistema de login usando Flask e Flask-Login. O 
 1. **Clone o repositório**:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/LucasRialx/Flask_Login_System.git
     ```
 
 2. **Navegue até o diretório do projeto**:
 
     ```bash
-    cd seu-repositorio
+    cd Flask_Login_System
     ```
 
 3. **Crie um ambiente virtual** (opcional, mas recomendado):
